@@ -1,2 +1,10 @@
-# School-Escape2
-# ⚠️ COPYRIGHT NOTICE Copyright (c) 2026 YourName. All rights reserved. No part of this game or its source code may be copied, reproduced, or distributed without permission.
+# ⚠️ LEGAL NOTICE & INTELLECTUAL PROPERTY PROTECTION
+Copyright (c) 2026 Matrix Core Technologies Ltd. All rights reserved.
+
+This repository contains proprietary source code, algorithmic engine logic, 
+and grid structural data. Unauthorized reproduction, modification, decompilation, 
+distribution, or public deployment of these assets without express written consent 
+from Matrix Core Technologies Ltd. is strictly prohibited. 
+
+Infringements will result in immediate DMCA enforcement action, global hosting 
+takedowns, and corporate legal litigation.
